@@ -1,0 +1,48 @@
+
+body {
+    background-color: rgb(224, 234, 238);
+    background-image: url("download.jpeg");
+    align-items: center;
+    
+
+  }
+  
+  #head1 {
+    color: rgb(240, 122, 11);
+    margin-left: 20px;
+    text-align: center;
+    outline-style: solid;
+  outline-color: #ff0000;
+  background-color: rgb(43, 173, 238);
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px rgb(211, 211, 218);
+  }
+
+  .center{
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+    border-color: aqua;
+    border:2px solid Tomato;
+    background-color: aqua;
+    box-sizing: border-box;
+    border: 2px solid black;
+    outline: #4CAF50 solid 10px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
+  .container{
+    background-color: lightgrey;
+  width: 300px;
+  border: 10px solid rgb(177, 166, 241);
+  padding: 10%;
+  
+  margin: 25px;
+  outline: black;
+  justify-content: center;
+  transform: translate(-50% -50%);
+  align-items: center;
+
+ 
+  }
+  
